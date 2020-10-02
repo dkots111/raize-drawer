@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
           children: <Widget>[
             new UserAccountsDrawerHeader(
               accountName: new Text("GDG Baroda"),
-              accountEmail: new Text("gdgbaroda@gmail.com"),
+              accountEmail: new Text("dhvanankotecha@gmail.com"),
               currentAccountPicture: new CircleAvatar(
                 backgroundColor: Colors.brown,
                 child: new Text("G"),
